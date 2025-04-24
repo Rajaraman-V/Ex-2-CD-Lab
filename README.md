@@ -103,18 +103,6 @@ int main(){
 int a,b; return 0;
 }
 ```
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/01975eee-9e1f-4f04-8393-ac4d656186ac)
 
