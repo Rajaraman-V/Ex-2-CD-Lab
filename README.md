@@ -116,7 +116,7 @@ int a,b; return 0;
 #
 #
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/3b8f0fae-30a1-4d45-a62e-467242a4585d)
+![image](https://github.com/user-attachments/assets/01975eee-9e1f-4f04-8393-ac4d656186ac)
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
